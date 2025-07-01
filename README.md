@@ -6,4 +6,4 @@ Here, you can get easily download the given 2 files and run the "face-tracking.p
 2. After downloading, before you run the code, in order to properly run the program, fix the path of the "haarcascade_frontalface_default.xml" in the line 11 of the "face-tracking.py"
    For example for me, I set the file under this path to here "/home/pmt/desktop/face_tracking"
 3. Save the changes
-4. run
+4. Run
