@@ -8,7 +8,7 @@ picam2.configure(picam2.create_preview_configuration(main={"format": "XRGB8888",
 picam2.start()
 
 # Load OpenCV's built-in face detector
-face_cascade = cv2.CascadeClassifier('/home/pmt/haarcascade_frontalface_default.xml')
+face_cascade = cv2.CascadeClassifier('/home/pmt/desktop/face_tracking/haarcascade_frontalface_default.xml')
 
 print("Press 'q' to quit")
 
